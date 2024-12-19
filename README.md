@@ -1,0 +1,1 @@
+The examples of how to use are in the Notebook. Support multiprocessing, require Python 3.12 or above. The code can customize the board size. The algorithm can change the expansion's depth and sub node number. Seems very slow when the board is larger, user more cores can looks a bit better.
